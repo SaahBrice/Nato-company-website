@@ -25,7 +25,7 @@ body {
 .header {
     height: 85vh;
     background-image: linear-gradient(
-        to top, #7ed56f12,#28b485e5) ,
+        to top, #7ed56fd1,#28b485e5) ,
         url(../img/hero.jpg);
     background-size: cover;
     background-position: top;
@@ -52,7 +52,7 @@ body {
 
 .header_text_box{
     position: absolute;
-    top: 50%;
+    top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
